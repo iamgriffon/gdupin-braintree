@@ -1,0 +1,15 @@
+.pageTitle {
+  font-family: courier, monospace;
+  text-transform: uppercase;
+  display: flex;
+  margin-bottom: 6px;
+  justify-content: space-around;
+}
+
+.tokenLabel {
+  font-family: courier, monospace;
+  font-size: 1rem;
+  display: flex;
+  margin: 1.75rem 5rem;
+  justify-content: center;
+}

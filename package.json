@@ -9,9 +9,13 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "axios": "^0.27.2",
+    "braintree": "^3.12.0",
+    "braintree-web": "^3.85.5",
     "next": "12.2.3",
     "react": "18.2.0",
-    "react-dom": "18.2.0"
+    "react-dom": "18.2.0",
+    "react-hook-form": "^7.34.0"
   },
   "devDependencies": {
     "eslint": "8.20.0",
